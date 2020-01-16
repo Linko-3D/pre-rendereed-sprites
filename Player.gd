@@ -1,10 +1,13 @@
 extends KinematicBody2D
 
+export var player = false
 var speed = 12500
 var direction = "down"
 
 func _physics_process(delta):
-
+	if player == false:
+		return
+	
 	var motion = Vector2()
 
 	#Run
