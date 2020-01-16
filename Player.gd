@@ -54,7 +54,7 @@ func _physics_process(delta):
 	#Idle
 
 	if motion == Vector2():
-		$AnimatedSprite.play("idle_" + "down")
+		$AnimatedSprite.play("idle_" + direction)
 
 	#Make the character moves
 	move_and_slide(motion * speed * delta)
