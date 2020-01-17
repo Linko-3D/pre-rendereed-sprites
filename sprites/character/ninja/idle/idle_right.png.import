@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/run_right.png-6194916e60576f685ff5374167640f74.stex"
+path="res://.import/idle_right.png-c8bbef6376b3edf8d250688ee01d10dc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/player/run/run_right.png"
-dest_files=[ "res://.import/run_right.png-6194916e60576f685ff5374167640f74.stex" ]
+source_file="res://sprites/character/ninja/idle/idle_right.png"
+dest_files=[ "res://.import/idle_right.png-c8bbef6376b3edf8d250688ee01d10dc.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/run_down.png-3afa90fcf5ebadf2a8de3727f5e81c3f.stex"
+path="res://.import/idle_down.png-e88e7d8e8437377e8f225db463635c06.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/player/run/run_down.png"
-dest_files=[ "res://.import/run_down.png-3afa90fcf5ebadf2a8de3727f5e81c3f.stex" ]
+source_file="res://sprites/character/ninja/idle/idle_down.png"
+dest_files=[ "res://.import/idle_down.png-e88e7d8e8437377e8f225db463635c06.stex" ]
 
 [params]
 

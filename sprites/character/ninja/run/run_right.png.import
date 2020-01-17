@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/run_down_right.png-0b1d83d42e59081a4e8ece63e8f90e64.stex"
+path="res://.import/run_right.png-469e5090b074b816ce0b2e5af22f1650.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/player/run/run_down_right.png"
-dest_files=[ "res://.import/run_down_right.png-0b1d83d42e59081a4e8ece63e8f90e64.stex" ]
+source_file="res://sprites/character/ninja/run/run_right.png"
+dest_files=[ "res://.import/run_right.png-469e5090b074b816ce0b2e5af22f1650.stex" ]
 
 [params]
 
