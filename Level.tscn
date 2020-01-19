@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Level.gd" type="Script" id=2]
+[ext_resource path="res://Ball.tscn" type="PackedScene" id=3]
 
 [node name="Level" type="Node2D"]
 script = ExtResource( 2 )
@@ -26,3 +27,9 @@ position = Vector2( -80.4914, -17.8483 )
 
 [node name="Player5" parent="YSort" instance=ExtResource( 1 )]
 position = Vector2( 101.709, -3.54474 )
+
+[node name="Ball" parent="YSort" instance=ExtResource( 3 )]
+position = Vector2( 39.5484, 19.062 )
+
+[node name="Ball2" parent="YSort" instance=ExtResource( 3 )]
+position = Vector2( -42.2181, 28.0338 )
